@@ -19,7 +19,7 @@ Product.init(
       type: DataTypes.STRING,
       allowNull: false
     },
-    id: {
+    stock: {
       type: DataTypes.INTEGER,
       allowNull: false,
       defaultValue: 10,
